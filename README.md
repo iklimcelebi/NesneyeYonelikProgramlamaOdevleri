@@ -87,13 +87,32 @@ Projelerde Java dili kullanılarak OOP prensipleri, veri yapıları ve algoritma
 ---
 
 
-## 🧠 Kullanılanlar
+### 🔹 NYPHW6 - Otopark Yönetim Sistemi
 
-* Java
-* OOP (Object-Oriented Programming)
-* Collections Framework
+* Araç ekleme ve çıkarma
+* Otopark kapasite kontrolü
+* Toplam kazanç hesaplama
+* Araç listeleme
+
+📚 Kullanılan Konular:
+
+* Array (dizi kullanımı)
+* OOP (Class yapısı)
+* Constructor overloading
 
 ---
+
+
+###🔹 NYPHW7 - Tavşan & Kaplumbağa Yarışı
+* Rastgele hareket eden iki hayvan simülasyonu
+* Yarış durumu ve kazanan belirleme
+* Konsol üzerinde görselleştirme
+
+📚 Kullanılan Konular:
+
+* Inheritance
+* Abstract class
+* Random sınıfı
 
 ## ✍️ Geliştirici
 
@@ -103,5 +122,5 @@ Projelerde Java dili kullanılarak OOP prensipleri, veri yapıları ve algoritma
 
 ## 📌 Not
 
-Bu proje eğitim amaçlı geliştirilmi
+Bu projeler eğitim amaçlı geliştirilmiştir.
 
